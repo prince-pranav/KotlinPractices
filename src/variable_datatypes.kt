@@ -28,4 +28,7 @@ fun main(args: Array<String>) {
 
     val myNullableVariable: Int? = null
     println("Nullable variable is $myNullableVariable")
+
+    //Constant Variable
+    println("Color is ${Constants.RED}")
 }
